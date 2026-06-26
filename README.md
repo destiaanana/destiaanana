@@ -1,4 +1,4 @@
-# 👋 Hai, Aku Destiana! (@dstiaaan)
+# 👋 Hai, Aku Destiana! (@destiaanana)
 
 <p align="left">
   <a href="https://git.io/typing-svg">
