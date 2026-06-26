@@ -64,17 +64,17 @@ Grafik di bawah ini akan otomatis memperbarui dirinya sendiri setiap kali saya m
 
 ### 🤝 Mari Terkoneksi!
 
-Kamu bisa menemukan saya di media sosial berikut:
+Kamu bisa menemukan atau menyapa saya di media sosial berikut:
 
 <p align="left">
-  <a href="https://linkedin.com/in/username-linkedin-kamu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=outbound&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/destianasuseno" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/username-ig-kamu" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=outbound&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://instagram.com/dstyyiaaa" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
 <p align="center">
-  <img>src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" alt="Footer Banner" />
 </p>
