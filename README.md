@@ -52,7 +52,6 @@ Sederet teknologi dan alat yang sering saya gunakan untuk menghidupkan ide-ide d
 Grafik di bawah ini akan otomatis memperbarui dirinya sendiri setiap kali saya melakukan push atau koding di GitHub!
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=destiaanana&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Statistik GitHub Ditiaan" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=destiaanana&theme=tokyonight&hide_border=true" alt="Streak Koding Ditiaan" />
 </p>
 
