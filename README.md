@@ -40,7 +40,7 @@ Sederet teknologi dan alat yang sering saya gunakan untuk menghidupkan ide-ide d
 
 ### 🌟 Proyek Unggulan
 
-#### 🎂 [CakeLetter - Birthday Web Template Marketplace](https://github.com/destiaanana/software-prototypes/tree/main/01-CakeLetter)
+#### 🎂 [CakeLetter - Birthday Web Template Marketplace](https://github.com/destiaanana/Website-CakeLetter)
 *Platform katalog digital komersial interaktif bergaya Neo-Brutalism untuk memesan template website ucapan ulang tahun kustom.*
 *   **Tech:** HTML5, CSS Variables (Responsive Touchscreen Optimization), Vanilla JavaScript, LocalStorage.
 *   **Fitur:** *Live Preview Modal*, Filter Kategori, Riwayat Lokal, dan *WhatsApp Checkout Integration*.
