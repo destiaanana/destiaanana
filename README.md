@@ -52,17 +52,19 @@ Sederet teknologi dan alat yang sering saya gunakan untuk menghidupkan ide-ide d
 
 ---
 
-### 📊 Statistik Aktivitas Koding
+---
+
+### 📊 Statistik Aktivitas Koding (Animasi Otomatis)
 
 Grafik di bawah ini melacak statistik koding, bahasa pemrograman yang paling sering digunakan, dan kontribusi saya secara real-time!
 
 <p align="center">
-  <!-- GitHub Streak Stats -->
-  <img width="31%" src="https://github-readme-streak-stats.herokuapp.com/?user=destiaanana&theme=tokyonight&hide_border=true" alt="Streak Koding Destiana" />
-  <!-- GitHub Stats Card -->
-  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=destiaanana&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true" alt="Statistik Umum Destiana" />
-  <!-- Top Languages Card -->
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=destiaanana&theme=tokyonight&hide_border=true&layout=compact" alt="Bahasa Populer Destiana" />
+  <!-- GitHub Streak Stats (Stable Mirror) -->
+  <img width="31%" src="https://git-streak-stats.vercel.app/?user=destiaanana&theme=tokyonight&hide_border=true" alt="Streak Koding Destiana" />
+  <!-- GitHub Stats Card (Stable Mirror) -->
+  <img width="33%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=destiaanana&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true" alt="Statistik Umum Destiana" />
+  <!-- Top Languages Card (Stable Mirror) -->
+  <img width="33%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=destiaanana&theme=tokyonight&hide_border=true&layout=compact" alt="Bahasa Populer Destiana" />
 </p>
 
 ---
