@@ -12,10 +12,10 @@
 
 > "Mengubah baris kode mentah menjadi antarmuka web yang interaktif, fungsional, dan memanjakan mata."
 
-*   🏫 **Fokus Saat Ini:** Sedang mendalami keahlian di bidang **Frontend Web Development** dan arsitektur web modern.
-*   💻 **Karakter Koding:** Suka bereksperimen dengan detail kecil pada UI (*User Interface*) dan optimasi kenyamanan pengguna (*User Experience*).
-*   🎨 **Gaya Desain Favorit:** *Pastel*, *Pixel-Art/Retro*, dan *Clean Minimalist*.
-*   ☕ **Motto:** *Code, break, fix, repeat.*
+* 🏫 **Fokus Saat Ini:** Sedang mendalami keahlian di bidang **Frontend Web Development** dan arsitektur web modern.
+* 💻 **Karakter Koding:** Suka bereksperimen dengan detail kecil pada UI (*User Interface*) dan optimasi kenyamanan pengguna (*User Experience*).
+* 🎨 **Gaya Desain Favorit:** *Glassmorphism*, *Pastel*, dan *Clean Minimalist*.
+* ☕ **Motto:** *Code, break, fix, repeat.*
 
 ---
 
@@ -40,6 +40,11 @@ Sederet teknologi dan alat yang sering saya gunakan untuk menghidupkan ide-ide d
 
 ### 🌟 Proyek Unggulan
 
+#### 🕒 [To-Do Life Dashboard — iOS Glassmorphism Style](https://github.com/destiaanana/CodingCamp-29June26-DestianaSuseno)
+*Dashboard produktivitas interaktif dengan efek mouse spotlight premium, alarm berbasis Web Audio API, dan sistem penyimpanan lokal.*
+*   **Tech:** HTML5, CSS Grid & Backdrop Filters, Vanilla JavaScript, LocalStorage, Web Audio API.
+*   **Fitur:** *Pomodoro Focus Timer*, *Synthesized Alarm*, *Inline Task Editing*, dan *Persistent Quick Links*.
+
 #### 🎂 [CakeLetter - Birthday Web Template Marketplace](https://github.com/destiaanana/Website-CakeLetter)
 *Platform katalog digital komersial interaktif bergaya Neo-Brutalism untuk memesan template website ucapan ulang tahun kustom.*
 *   **Tech:** HTML5, CSS Variables (Responsive Touchscreen Optimization), Vanilla JavaScript, LocalStorage.
@@ -47,12 +52,17 @@ Sederet teknologi dan alat yang sering saya gunakan untuk menghidupkan ide-ide d
 
 ---
 
-### 📊 Statistik Aktivitas Koding (Animasi Otomatis)
+### 📊 Statistik Aktivitas Koding
 
-Grafik di bawah ini akan otomatis memperbarui dirinya sendiri setiap kali saya melakukan push atau koding di GitHub!
+Grafik di bawah ini melacak statistik koding, bahasa pemrograman yang paling sering digunakan, dan kontribusi saya secara real-time!
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=destiaanana&theme=tokyonight&hide_border=true" alt="Streak Koding Ditiaan" />
+  <!-- GitHub Streak Stats -->
+  <img width="31%" src="https://github-readme-streak-stats.herokuapp.com/?user=destiaanana&theme=tokyonight&hide_border=true" alt="Streak Koding Destiana" />
+  <!-- GitHub Stats Card -->
+  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=destiaanana&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true" alt="Statistik Umum Destiana" />
+  <!-- Top Languages Card -->
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=destiaanana&theme=tokyonight&hide_border=true&layout=compact" alt="Bahasa Populer Destiana" />
 </p>
 
 ---
@@ -71,5 +81,5 @@ Kamu bisa menemukan atau menyapa saya di media sosial berikut:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=100&section=footer" alt="Footer Banner" />
 </p>
