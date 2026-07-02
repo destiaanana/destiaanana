@@ -14,7 +14,7 @@
 
 * 🏫 **Fokus Saat Ini:** Sedang mendalami keahlian di bidang **Frontend Web Development** dan arsitektur web modern.
 * 💻 **Karakter Koding:** Suka bereksperimen dengan detail kecil pada UI (*User Interface*) dan optimasi kenyamanan pengguna (*User Experience*).
-* 🎨 **Gaya Desain Favorit:** *Glassmorphism*, *Pastel*, dan *Clean Minimalist*.
+* 🎨 **Gaya Desain Favorit:** *Pixel*, *Pastel*, dan *Clean Minimalist*.
 * ☕ **Motto:** *Code, break, fix, repeat.*
 
 ---
