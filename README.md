@@ -55,10 +55,6 @@ Grafik di bawah ini akan otomatis memperbarui dirinya sendiri setiap kali saya m
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=destiaanana&theme=tokyonight&hide_border=true" alt="Streak Koding Ditiaan" />
 </p>
 
-<p align="center">
-  <img width="97%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=destiaanana&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa Pemrograman Paling Sering Digunakan" />
-</p>
-
 ---
 
 ### 🤝 Mari Terkoneksi!
