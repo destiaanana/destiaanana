@@ -1,4 +1,4 @@
-# 👋 Hai, Aku Destiana! (@destiaanana)
+# 👋 Hi, aku Destia! (@destiaanana)
 
 <p align="left">
   <a href="https://git.io/typing-svg">
@@ -8,20 +8,20 @@
 
 ---
 
-### 🚀 Tentang Aku
+### 🚀 About me
 
-> "Mengubah baris kode mentah menjadi antarmuka web yang interaktif, fungsional, dan memanjakan mata."
+> "Turning lines of raw code into an interactive, functional, and visually appealing web interface."
 
-* 🏫 **Fokus Saat Ini:** Sedang mendalami keahlian di bidang **Frontend Web Development** dan arsitektur web modern.
-* 💻 **Karakter Koding:** Suka bereksperimen dengan detail kecil pada UI (*User Interface*) dan optimasi kenyamanan pengguna (*User Experience*).
-* 🎨 **Gaya Desain Favorit:** *Pixel*, *Pastel*, dan *Clean Minimalist*.
+* 🏫 **Current Focus:** Currently deepening my expertise in **Frontend Web Development** and modern web architecture.
+* 💻 **Coding Style:** I enjoy experimenting with small details in the UI (*User Interface*) and optimizing UX (*User Experience*).
+* 🎨 **Favorite Design Styles:** *Pixel*, *Pastel*, and *Clean Minimalist*.
 * ☕ **Motto:** *Code, break, fix, repeat.*
 
 ---
 
-### 🛠️ Senjata & Teknologi (Tech Stack)
+### 🛠️ Tools & Technology (Tech Stack)
 
-Sederet teknologi dan alat yang sering saya gunakan untuk menghidupkan ide-ide digital:
+A range of technologies and tools I frequently use to bring digital ideas to life:
 
 <p align="left">
   <!-- HTML5 -->
@@ -38,26 +38,26 @@ Sederet teknologi dan alat yang sering saya gunakan untuk menghidupkan ide-ide d
 
 ---
 
-### 🌟 Proyek Unggulan
+### 🌟 Flagship Projects
 
 #### 🕒 [To-Do Life Dashboard — iOS Glassmorphism Style](https://github.com/destiaanana/CodingCamp-29June26-DestianaSuseno)
-*Dashboard produktivitas interaktif dengan efek mouse spotlight premium, alarm berbasis Web Audio API, dan sistem penyimpanan lokal.*
+*An interactive productivity dashboard with premium mouse spotlight effects, Web Audio API-based alarms, and a local storage system.*
 *   **Tech:** HTML5, CSS Grid & Backdrop Filters, Vanilla JavaScript, LocalStorage, Web Audio API.
-*   **Fitur:** *Pomodoro Focus Timer*, *Synthesized Alarm*, *Inline Task Editing*, dan *Persistent Quick Links*.
+*   **Features:** *Pomodoro Focus Timer*, *Synthesized Alarm*, *Inline Task Editing*, and *Persistent Quick Links*.
 
 #### 🎂 [CakeLetter - Birthday Web Template Marketplace](https://github.com/destiaanana/Website-CakeLetter)
-*Platform katalog digital komersial interaktif bergaya Neo-Brutalism untuk memesan template website ucapan ulang tahun kustom.*
+*An interactive, Neo-Brutalist-style commercial digital catalog platform for ordering custom birthday greeting website templates.*
 *   **Tech:** HTML5, CSS Variables (Responsive Touchscreen Optimization), Vanilla JavaScript, LocalStorage.
-*   **Fitur:** *Live Preview Modal*, Filter Kategori, Riwayat Lokal, dan *WhatsApp Checkout Integration*.
+*   **Features:** *Live Preview Modal*, Category Filters, Local History, and *WhatsApp Checkout Integration*.
 
 ---
 
-### 📊 Statistik Aktivitas Koding (Animasi Otomatis)
+### 📊 Coding Activity Statistics
 
-Grafik di bawah ini melacak statistik koding dan bahasa pemrograman yang paling sering digunakan secara real-time!
+The graph below tracks coding statistics and the most frequently used programming languages in real time!
 
 <p align="center">
-  <!-- Baris Atas: Statistik Umum & Bahasa (Sudah Aman) -->
+  <!-- Baris Atas: Statistik Umum & Bahasa -->
   <table align="center" style="margin-bottom: 10px;">
     <tr>
       <td>
@@ -72,9 +72,9 @@ Grafik di bawah ini melacak statistik koding dan bahasa pemrograman yang paling 
 
 ---
 
-### 🤝 Mari Terkoneksi!
+### 🤝 Let’s Connect!
 
-Kamu bisa menemukan atau menyapa saya di media sosial berikut:
+You can find or reach out to me on the following social media platforms:
 
 <p align="left">
   <a href="https://linkedin.com/in/destianasuseno" target="_blank">
