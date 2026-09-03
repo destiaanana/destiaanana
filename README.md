@@ -1,9 +1,9 @@
 <div align="center">
 
-# 👋 Hi, aku Destia! (@destiaanana)
+# 🌸 Hi, aku Destia! (@destiaanana) 🌸
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=d49a9e&center=true&vCenter=true&width=500&lines=Frontend+Developer+Student;Crafting+Pixel-Perfect+Webs;Welcome+to+my+digital+space!+⭐" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=16&duration=3000&pause=1000&color=FF9EBB&center=true&vCenter=true&width=500&lines=Frontend+Developer+Student;Crafting+Pixel-Perfect+Webs;Welcome+to+my+digital+space!+✨" alt="Typing SVG" />
   </a>
 
   <br>
@@ -14,11 +14,11 @@
 
 ---
 
-### 🌸 About Me
+### 🎀 About Me
 
 * 🏫 **Current Focus:** Deepening my expertise in **Frontend Web Development** and modern web architecture.
 * 💻 **Coding Style:** Experimenting with small details in the UI (*User Interface*) and optimizing UX (*User Experience*).
-* 🎨 **Design Aesthetics:** *Pixel*, *Pastel*, and *Clean Minimalist*.
+* 🎨 **Design Aesthetics:** *Pastel Pink*, *Pixel*, and *Clean Minimalist*.
 * ☕ **Motto:** *Code, break, fix, repeat.*
 
 ---
@@ -26,9 +26,10 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <p>A range of technologies and tools I frequently use to bring digital ideas to life:</p>
+  <p>Technologies and tools I frequently use to bring digital ideas to life:</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github&theme=dark" alt="My Skills" />
+    <!-- Menggunakan tema cerah (light) agar ikon terlihat lebih ceria dan cocok dengan tema pastel -->
+    <img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github&theme=light" alt="My Skills" />
   </a>
 </div>
 
@@ -56,8 +57,9 @@
 ### 📊 Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=destiaanana&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=destiaanana&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <!-- Menggunakan API alternatif yang stabil dengan tema bernuansa pink -->
+  <img src="https://github-readme-stats.vercel.app/api?username=destiaanana&theme=buefy&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0D1117&title_color=FF9EBB&icon_color=FF9EBB&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=destiaanana&theme=buefy&hide_border=true&layout=compact&bg_color=0D1117&title_color=FF9EBB&text_color=FFFFFF" alt="Top Languages" width="48%" />
 </div>
 
 ---
@@ -68,13 +70,15 @@
   <p>Feel free to reach out for collaborations or just a friendly chat!</p>
   
   <a href="https://linkedin.com/in/destianasuseno" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <!-- Mengganti badge dengan versi pink pastel khusus -->
+    <img src="https://img.shields.io/badge/LinkedIn-FF9EBB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/dstyyiaaa" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-FF9EBB?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=d49a9e&height=100&section=footer" alt="Footer Banner" />
+  <!-- Gelombang di bawah sekarang menggunakan warna pastel pink ceria -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9EBB&height=100&section=footer" alt="Footer Banner" />
 </div>
