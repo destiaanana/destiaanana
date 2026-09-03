@@ -3,10 +3,10 @@
 # 🌸 Hi, aku Destia! (@destiaanana) 🌸
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=16&duration=3000&pause=1000&color=FF9EBB&center=true&vCenter=true&width=500&lines=Frontend+Developer+Student;Crafting+Pixel-Perfect+Webs;Welcome+to+my+digital+space!+✨" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&duration=3000&pause=1000&color=FF9EBB&center=true&vCenter=true&width=530&lines=Frontend+Developer+Student;Crafting+Pixel-Perfect+Webs;Welcome+to+my+digital+space!+✨" alt="Typing SVG" />
   </a>
 
-  <br>
+  <br><br>
   
   *“Turning lines of raw code into an interactive, functional, and visually appealing web interface.”*
 
@@ -28,7 +28,6 @@
 <div align="center">
   <p>Technologies and tools I frequently use to bring digital ideas to life:</p>
   <a href="https://skillicons.dev">
-    <!-- Menggunakan tema cerah (light) agar ikon terlihat lebih ceria dan cocok dengan tema pastel -->
     <img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github&theme=light" alt="My Skills" />
   </a>
 </div>
@@ -57,9 +56,9 @@
 ### 📊 Coding Activity
 
 <div align="center">
-  <!-- Menggunakan API alternatif yang stabil dengan tema bernuansa pink -->
-  <img src="https://github-readme-stats.vercel.app/api?username=destiaanana&theme=buefy&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0D1117&title_color=FF9EBB&icon_color=FF9EBB&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=destiaanana&theme=buefy&hide_border=true&layout=compact&bg_color=0D1117&title_color=FF9EBB&text_color=FFFFFF" alt="Top Languages" width="48%" />
+  <!-- Menggunakan API Github Stats Extended yang aktif & bebas rate-limit -->
+  <img src="https://github-stats-extended.vercel.app/api?username=destiaanana&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0D1117&title_color=FF9EBB&icon_color=FF9EBB&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=destiaanana&hide_border=true&layout=compact&bg_color=0D1117&title_color=FF9EBB&text_color=FFFFFF" alt="Top Languages" width="48%" />
 </div>
 
 ---
@@ -70,7 +69,6 @@
   <p>Feel free to reach out for collaborations or just a friendly chat!</p>
   
   <a href="https://linkedin.com/in/destianasuseno" target="_blank">
-    <!-- Mengganti badge dengan versi pink pastel khusus -->
     <img src="https://img.shields.io/badge/LinkedIn-FF9EBB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/dstyyiaaa" target="_blank">
@@ -79,6 +77,5 @@
 </div>
 
 <div align="center">
-  <!-- Gelombang di bawah sekarang menggunakan warna pastel pink ceria -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9EBB&height=100&section=footer" alt="Footer Banner" />
 </div>
