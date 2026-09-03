@@ -3,7 +3,7 @@
 # Hi, aku Destia! (@destiaanana) ୭🧁 
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&duration=3000&pause=1000&color=FF9EBB&center=true&vCenter=true&width=530&lines=Frontend+Developer+Student;Crafting+Pixel-Perfect+Webs;Welcome+to+my+digital+space!+⡞⠳⣄⣀⣠⠞⢷ ֹ۪" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&duration=3000&pause=1000&color=FF9EBB&center=true&vCenter=true&width=530&lines=Frontend+Developer+Student;Crafting+Pixel-Perfect+Webs;Welcome+to+my+digital+space!+𖹭.ᐟ" alt="Typing SVG" />
   </a>
 
   <br><br>
