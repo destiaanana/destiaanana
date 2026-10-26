@@ -36,6 +36,11 @@
 
 ### Flagship Projects ₊˚⊹♡
 
+#### 🎮👾˚₊‧ [Cozy Birthday Quest](https://github.com/destiaanana/mini-pixel-game)
+*An interactive, 16-bit RPG-style web minigame built from scratch as a personalized digital birthday gift.*
+*   **Tech:** HTML5 Canvas, Tailwind CSS, Vanilla JavaScript, Web Audio API.
+*   **Features:** Custom Pixel Art Rendering, Web Audio API Synthesizer, Dynamic Dialog System, and AABB Collision Physics.
+
 #### ˚⊱🪷⊰˚ [Dewy Inventory Tracker](https://github.com/destiaanana/dewy-inventory-tracker)
 *A lightweight, aesthetic, and mobile-friendly web application for independent on-the-go inventory tracking.*
 *   **Tech:** HTML5, CSS Variables, Vanilla JavaScript, LocalStorage.
